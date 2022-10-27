@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\DZ_Sem7\Zadacha50\bin\Debug\net6.0\Zadacha50.exe
+C:\Users\ASUS\Desktop\DZ_Sem7\Zadacha50\bin\Debug\net6.0\Zadacha50.deps.json
+C:\Users\ASUS\Desktop\DZ_Sem7\Zadacha50\bin\Debug\net6.0\Zadacha50.runtimeconfig.json
+C:\Users\ASUS\Desktop\DZ_Sem7\Zadacha50\bin\Debug\net6.0\Zadacha50.dll
+C:\Users\ASUS\Desktop\DZ_Sem7\Zadacha50\bin\Debug\net6.0\Zadacha50.pdb
+C:\Users\ASUS\Desktop\DZ_Sem7\Zadacha50\obj\Debug\net6.0\Zadacha50.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\DZ_Sem7\Zadacha50\obj\Debug\net6.0\Zadacha50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\DZ_Sem7\Zadacha50\obj\Debug\net6.0\Zadacha50.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\DZ_Sem7\Zadacha50\obj\Debug\net6.0\Zadacha50.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\DZ_Sem7\Zadacha50\obj\Debug\net6.0\Zadacha50.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DZ_Sem7\Zadacha50\obj\Debug\net6.0\Zadacha50.dll
+C:\Users\ASUS\Desktop\DZ_Sem7\Zadacha50\obj\Debug\net6.0\refint\Zadacha50.dll
+C:\Users\ASUS\Desktop\DZ_Sem7\Zadacha50\obj\Debug\net6.0\Zadacha50.pdb
+C:\Users\ASUS\Desktop\DZ_Sem7\Zadacha50\obj\Debug\net6.0\Zadacha50.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\DZ_Sem7\Zadacha50\obj\Debug\net6.0\ref\Zadacha50.dll
